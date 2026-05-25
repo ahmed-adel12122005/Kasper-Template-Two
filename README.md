@@ -11,13 +11,6 @@ Check out the live project here:
 
 ---
 
-## 📸 Preview
-
-![Kasper Preview](https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop)  
-*An elegant, high-performance layout designed to look stunning on any screen size.*
-
----
-
 ## ✨ Features
 
 *   **100% Responsive Design:** Flawless user experience across mobile, tablet, and desktop screens.
